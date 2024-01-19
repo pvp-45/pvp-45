@@ -1,6 +1,7 @@
 
 
-![github-header-image](https://github.com/pvp-45/pvp-45/assets/96516070/0ed845ca-9dd3-4973-9ee8-9dc3ff636770)
+![github-header-image (1)](https://github.com/pvp-45/pvp-45/assets/96516070/520362c9-a6c8-407f-b5a7-30847a39750a)
+
 
 
 
