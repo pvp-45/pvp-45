@@ -1,4 +1,9 @@
-<h1 align="center">Hello World👋 I am Pruthvi Patel</h1>
+
+
+![github-header-image](https://github.com/pvp-45/pvp-45/assets/96516070/0ed845ca-9dd3-4973-9ee8-9dc3ff636770)
+
+
+
 <h3 align="center">An Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvp-45&label=Profile%20views&color=0e75b6&style=flat" alt="pvp-45" /> </p>
