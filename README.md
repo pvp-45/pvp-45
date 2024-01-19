@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently pursuing **Computer Programming and Analysis Course in Seneca College**
 
-- 🌱 Learning and specializing **Object Oriented Programming in C++**
+- 🌱 Learning and specializing **Object Oriented Programming in C++**, **Full-Stack Web Development**, **Database Management** and **Data Structures and Algorithm**
 
 - 🤝 I'm looking forward to **create some projects and develop my portfolio**
 
