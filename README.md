@@ -33,7 +33,9 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvp-45&show_icons=true&locale=en&layout=compact" alt="pvp-45" />
     </td>
     <td>
-      <img align="center" src="https://leetcode.card.workers.dev/pvp_45?theme=dark&font=baloo&extension=null" alt="pvp-45" />
+      <a href="https://leetcode.com/u/pvp_45/">
+        <img align="center" src="https://leetcode.card.workers.dev/pvp_45?theme=dark&font=baloo&extension=null" alt="pvp-45" />
+      </a>
     </td>
   </tr>
 </table>
