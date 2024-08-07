@@ -23,7 +23,7 @@
 <a href="https://instagram.com/__.pvp_45.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.pvp_45.__" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> 🏆 LeetCode Stats:</h3>
+# 🏆 LeetCode Stats:
 <table>
   <tr>
     <td>
@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-<h3 align="left"> 📊 GitHub Stats:</h3>
+# 📊 GitHub Stats:
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvp-45&show_icons=true&locale=en&layout=compact&theme=radical" alt="pvp-45"/> 
 </p>
