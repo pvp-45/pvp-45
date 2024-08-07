@@ -27,7 +27,9 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=pvp_45&theme=nightowl" alt="LeetCode Badges"/>
+      <a href="https://leetcode.com/u/pvp_45/">
+        <img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=pvp_45&theme=nightowl" alt="LeetCode Badges"/>
+      </a>
     </td>
     <td>
       <a href="https://leetcode.com/u/pvp_45/">
