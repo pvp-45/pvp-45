@@ -32,7 +32,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/pruthvi-pvp/">
+      <a href="https://leetcode.com/u/pvp_45/">
         <img align="center" src="https://leetcode.card.workers.dev/pvp_45?theme=dark&font=baloo&extension=null" alt="pvp-45" />
       </a>
     </td>
