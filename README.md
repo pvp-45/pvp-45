@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pruthvivpatel45@gmail.com**
 
-#📲 Connect with me:
+# 📲 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/pruthvi patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pruthvi patel" height="30" width="40" /></a>
 <a href="https://instagram.com/__.pvp_45.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.pvp_45.__" height="30" width="40" /></a>
