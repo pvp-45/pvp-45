@@ -9,12 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvp-45&label=Profile%20views&color=0e75b6&style=flat" alt="pvp-45" /> </p>
 
-- 🔭 I’m currently pursuing **Computer Programming and Analysis Course in Seneca College**
-
-- 🌱 Learning and specializing **Object Oriented Programming in C++**, **Full-Stack Web Development**, **Database Management** and **Data Structures and Algorithm**
-
-- 🤝 I'm looking forward to **create some projects and develop my portfolio**
-
 - 📫 How to reach me **pruthvivpatel45@gmail.com**
 
 # 📲 Connect with me:
