@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">An Aspiring Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvp-45&label=Profile%20views&color=0e75b6&style=flat" alt="pvp-45" /> </p>
 
